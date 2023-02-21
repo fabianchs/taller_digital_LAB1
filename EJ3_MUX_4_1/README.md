@@ -24,3 +24,6 @@ Multiplexor 4-to-1 <a color="green" name="TOP"></a>
 
 
 Con este testbench se confirma que el multiplexor funciona para entradas binarias de hasta 16 bits y además redirecciona de manera coherente la señal hasta la salida.
+
+
+El multiplexor se realizó con lógica de alto nivel dentro del entorno de programación de hardware Verilog.
