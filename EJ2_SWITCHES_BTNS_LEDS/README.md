@@ -6,11 +6,22 @@
 - Las salidas de este módulo se muestran en los 16 LEDs disponibles en la tarjeta de desarrollo.
 - Este bloque subdivide los 16 interruptores en 4 grupos de 4. Cuando se presiona un botón, el grupo de LEDs que le corresponde se debe apagar, importante mencionar que el módulo acepta varios botones presionados y debe responder correctamente a lo solicitado.
 
- </br>
+ 
+
+__Validación con el banco de pruebas__
+
+</br>
+
+
+![Diagrama de bloques de todo el sistema](/IMAGES/TB_BTN_SWITCH.png)
+
+
+</br>
+
 
 __Comprobación de funcionamiento__
 
-</br>
+</br> 
 
 ![Diagrama de bloques de todo el sistema](/IMAGES/btn_switch.gif)
 
