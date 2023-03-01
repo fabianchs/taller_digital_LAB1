@@ -1,4 +1,4 @@
-# Circuito codificador para matrices de 16 teclas#
+# Circuito codificador para matrices de 16 teclas #
 
 ## Codificador 2 a 4 con salidas activas en low. ##
 
