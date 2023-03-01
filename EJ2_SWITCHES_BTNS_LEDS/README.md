@@ -8,10 +8,12 @@
 
  </br>
 
-__Entrada 00, salida 0111__
+__Comprobación de funcionamiento__
 
 </br>
 
 ![Diagrama de bloques de todo el sistema](/IMAGES/btn_switch.gif)
 
 </br>
+
+- Una de las mayores dificultades con este ejercicio fue la necesidad de aprender y buscar información relacionada a la conexión de la NEXYS, igualmente el tratamiento de los datos dentro del entorno de progamación tuvo que ser adaptado para que las variables se relacionaran directamente con los switches, leds y botones.
