@@ -47,8 +47,6 @@ __Entrada 11, salida 1110__
 
 ![Diagrama de bloques de todo el sistema](/IMAGES/K_11.png)
 
-<img src="/workspace/taller_digital_LAB1/IMAGES/K_11.png"  width="600" height="300">
-
 </br>
 
 - Los posibles errores dentro de este codificador pueden iniciar desde un incorrecto planteamiento de álgebra booleana al trasladar su lógica a compuertas, otra posibilidad es el mal funcionamiento de alguna compuerta lógica y este no fue detectado.
