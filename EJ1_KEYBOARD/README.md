@@ -47,6 +47,7 @@ __Entrada 11, salida 1110__
 
 ![Diagrama de bloques de todo el sistema](/IMAGES/K_11.png)
 
+<img src="IMAGES/K_11.png"  width="600" height="300">
 
 </br>
 
