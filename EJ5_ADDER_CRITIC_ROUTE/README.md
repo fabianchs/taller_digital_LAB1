@@ -19,3 +19,11 @@ __Validación con el banco de pruebas para el caso de 8 bits__
 </br>
 
 ![Diagrama de bloques de todo el sistema](/IMAGES/tb_FA_e.png)
+
+</br>
+
+__Validación con el banco de pruebas para el caso de 64 bits__
+
+</br>
+
+![Diagrama de bloques de todo el sistema](/IMAGES/tb_FA_me.png)
