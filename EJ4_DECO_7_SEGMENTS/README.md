@@ -6,15 +6,13 @@
 - Este diseño está adaptado para que trabaje en grupos de 4 switchs, por lo que hay cuatro potenciales valores a mostrar en el display de 7 segmentos.
 - Para seleccionar el grupo a mostrar se utilizaron dos botones, mediante los cuales se puede obtener las cuatro combinaciones necesarias para seleccionar la salida.
 
+__Banco de pruebas para el decodificador de hexadecimal a 7 segmentos__
 
- 
-
-__Validación con el banco de pruebas__
 
 </br>
 
 
-![Diagrama de bloques de todo el sistema](/IMAGES/TB_BTN_SWITCH.png)
+![Diagrama de bloques de todo el sistema](/IMAGES/tb_ss.png)
 
 
 </br>
